@@ -2,11 +2,16 @@ body {
 	background-color: #2a3452;
 	font-family: arial,sans-serif;
 
-	margin: 0px;
-	padding: 0px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .container {
-	margin: 5%;
+	text-align: center;
+	/*background-color: #c86141;*/
+	padding: 1%;
+}
 
+.btn {
+	margin: 1%;
 }
